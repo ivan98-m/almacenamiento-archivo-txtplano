@@ -2,7 +2,9 @@ var archivo = new XMLHttpRequest();
 var ruta = "tabla-vacunas.txt";
 archivo.open("GET", ruta, false);
 archivo.send(null);
-readFile(archivo);
+if (archivo.length >= 0){
+    readFile(archivo);
+}
 
 function readFile(archivo) {
     let tabla = document.querySelector(".table-body"); /*Obtener el elemento tbody con clase .table-body*/
