@@ -26,7 +26,7 @@ function validarDatos(){
     
     else if(document.frm_vacunacion.opc_vacuna.value === "Elija una opción"){
         alert("Seleccione un tipo de vacuna");
-        document.frm_vacunacion.opc_documento.focus();
+        document.frm_vacunacion.opc_vacuna.focus();
         verificar = false;
     }
     
