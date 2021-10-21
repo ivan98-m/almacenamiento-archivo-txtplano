@@ -1,4 +1,2 @@
-CC,769686,Ivan,Morales,Pfizer,2021-10-22,2021-10-14
-CC,7834878387,Yessid,Acosta,AstraZeneca,2021-10-14,Pendiente
-CC,7777,jose,Nasner,Johnson & Johnson,2021-10-14,2021-10-30
-CC,10857878738,Leydi,Morales,Moderna,2021-10-17,2021-10-30
+
+CC,1085335524,Ivan,Morales,Moderna,2021-09-10,Pendiente
